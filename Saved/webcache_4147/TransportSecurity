@@ -1,0 +1,26 @@
+{
+   "1SPWdvPJP1fCUhLZIB1LpusMdju/XAX2DbnoblktVp0=": {
+      "expiry": 1709928632.419993,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1678392632.419995
+   },
+   "M4bfUnCmQAi4PNb3B8aI/2+SVJhHKsMfMMT7fzi6ij4=": {
+      "expiry": 1709928626.360008,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1678392626.36001
+   },
+   "fJjUrPqhktMfiTHJX3Q0pJi/P12Q72DBgzzJqjlNC4o=": {
+      "expiry": 1689279026.329269,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1678392626.329271
+   },
+   "nAuqgR4iEWti7SOdT3UHPl6rmZU/DeaIm38P2O2OkgA=": {
+      "expiry": 1709928626.208638,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1678392626.208638
+   }
+}
