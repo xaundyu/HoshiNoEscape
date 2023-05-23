@@ -1,0 +1,1654 @@
+﻿Log file open, 05/17/23 11:23:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=18156)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: HorrorEngine
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\k10lab-p4\Downloads\HoshiNoEscape\HorrorEngine.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.2965] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="199c4bbf4aac3f86485162b6289ddcbb"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 3.030609
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-8EA9D68C48E5E55EB8A026834C6BF5E6
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.05 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.2965] (), CPU: Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz, GPU: NVIDIA GeForce RTX 3080
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.05.17-18.23.27:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.05.17-18.23.27:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.05.17-18.23.27:714][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.05.17-18.23.27:720][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.05.17-18.23.27:720][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.05.17-18.23.27:720][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.05.17-18.23.27:720][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.05.17-18.23.27:720][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.05.17-18.23.27:720][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.05.17-18.23.27:720][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.05.17-18.23.27:720][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.05.17-18.23.27:721][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.05.17-18.23.27:721][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.05.17-18.23.27:721][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.05.17-18.23.27:787][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.05.17-18.23.27:789][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.05.17-18.23.27:789][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2023.05.17-18.23.27:789][  0]LogD3D11RHI: D3D11 adapters:
+[2023.05.17-18.23.27:789][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2023.05.17-18.23.27:789][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080
+[2023.05.17-18.23.27:790][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.05.17-18.23.27:790][  0]LogD3D11RHI:     DeviceId    : 2206
+[2023.05.17-18.23.27:790][  0]LogD3D11RHI:     SubSysId    : 88d7103c
+[2023.05.17-18.23.27:790][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.05.17-18.23.27:790][  0]LogD3D11RHI:     DedicatedVideoMemory : 10556014592 bytes
+[2023.05.17-18.23.27:790][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.17-18.23.27:790][  0]LogD3D11RHI:     SharedSystemMemory : 17108582400 bytes
+[2023.05.17-18.23.27:790][  0]LogD3D11RHI:     AdapterLuid : 0 57899
+[2023.05.17-18.23.28:408][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3080' (Feature Level 11_1)
+[2023.05.17-18.23.28:408][  0]LogD3D11RHI:       10067/0/16316 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.05.17-18.23.28:409][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2023.05.17-18.23.28:409][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2023.05.17-18.23.28:409][  0]LogD3D11RHI:     VendorId    : 1414
+[2023.05.17-18.23.28:409][  0]LogD3D11RHI:     DeviceId    : 008c
+[2023.05.17-18.23.28:409][  0]LogD3D11RHI:     SubSysId    : 0000
+[2023.05.17-18.23.28:409][  0]LogD3D11RHI:     Revision    : 0000
+[2023.05.17-18.23.28:409][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2023.05.17-18.23.28:409][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.17-18.23.28:409][  0]LogD3D11RHI:     SharedSystemMemory : 17108582400 bytes
+[2023.05.17-18.23.28:409][  0]LogD3D11RHI:     AdapterLuid : 0 63886
+[2023.05.17-18.23.28:411][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2023.05.17-18.23.28:411][  0]LogD3D11RHI:       0/0/16316 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.05.17-18.23.28:411][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.05.17-18.23.28:411][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080
+[2023.05.17-18.23.28:411][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.05.17-18.23.28:411][  0]LogD3D11RHI:     DeviceId    : 2206
+[2023.05.17-18.23.28:411][  0]LogD3D11RHI:     SubSysId    : 88d7103c
+[2023.05.17-18.23.28:411][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.05.17-18.23.28:411][  0]LogD3D11RHI:     DedicatedVideoMemory : 10556014592 bytes
+[2023.05.17-18.23.28:411][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.17-18.23.28:411][  0]LogD3D11RHI:     SharedSystemMemory : 17108582400 bytes
+[2023.05.17-18.23.28:411][  0]LogD3D11RHI:     AdapterLuid : 0 57899
+[2023.05.17-18.23.28:411][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.05.17-18.23.28:412][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.05.17-18.23.28:414][  0]LogHAL: Display: Platform has ~ 32 GB [34217164800 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.05.17-18.23.28:414][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.05.17-18.23.28:414][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.05.17-18.23.28:414][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.05.17-18.23.28:420][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.05.17-18.23.28:420][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/k10lab-p4/Downloads/HoshiNoEscape/Saved/Config/WindowsEditor/Editor.ini]
+[2023.05.17-18.23.28:420][  0]LogInit: Computer: WS-K10-13
+[2023.05.17-18.23.28:420][  0]LogInit: User: k10labp4
+[2023.05.17-18.23.28:420][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.05.17-18.23.28:420][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.05.17-18.23.28:421][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.05.17-18.23.28:421][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.05.17-18.23.28:421][  0]LogMemory: Process Physical Memory: 269.57 MB used, 278.04 MB peak
+[2023.05.17-18.23.28:421][  0]LogMemory: Process Virtual Memory: 242.69 MB used, 242.69 MB peak
+[2023.05.17-18.23.28:421][  0]LogMemory: Physical Memory: 7430.11 MB used,  25201.93 MB free, 32632.03 MB total
+[2023.05.17-18.23.28:421][  0]LogMemory: Virtual Memory: 9413.29 MB used,  28082.74 MB free, 37496.03 MB total
+[2023.05.17-18.23.28:421][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.05.17-18.23.28:427][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.05.17-18.23.28:507][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.05.17-18.23.28:513][  0]LogInit: Using OS detected language (en-US).
+[2023.05.17-18.23.28:513][  0]LogInit: Using OS detected locale (en-US).
+[2023.05.17-18.23.28:519][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.05.17-18.23.28:726][  0]LogInit: Setting process to per monitor DPI aware
+[2023.05.17-18.23.28:748][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.05.17-18.23.28:748][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.05.17-18.23.28:748][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2023.05.17-18.23.28:748][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.05.17-18.23.28:807][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.05.17-18.23.28:807][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.05.17-18.23.31:026][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.05.17-18.23.31:026][  0]LogD3D11RHI:     GPU DeviceId: 0x2206 (for the marketing name, search the web for "GPU Device Id")
+[2023.05.17-18.23.31:026][  0]LogWindows: Attached monitors:
+[2023.05.17-18.23.31:026][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1080), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.05.17-18.23.31:026][  0]LogWindows: Found 1 attached monitors.
+[2023.05.17-18.23.31:026][  0]LogWindows: EnumDisplayDevices:
+[2023.05.17-18.23.31:026][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.05.17-18.23.31:026][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.05.17-18.23.31:026][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.05.17-18.23.31:027][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.05.17-18.23.31:027][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.05.17-18.23.31:027][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3080
+[2023.05.17-18.23.31:027][  0]LogD3D11RHI:   Driver Version: 531.30 (internal:31.0.15.3130, unified:531.30)
+[2023.05.17-18.23.31:027][  0]LogD3D11RHI:      Driver Date: 3-8-2023
+[2023.05.17-18.23.31:027][  0]LogRHI: Texture pool is 7046 MB (70% of 10067 MB)
+[2023.05.17-18.23.31:027][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.05.17-18.23.31:027][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080
+[2023.05.17-18.23.31:027][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.05.17-18.23.31:027][  0]LogD3D11RHI:     DeviceId    : 2206
+[2023.05.17-18.23.31:027][  0]LogD3D11RHI:     SubSysId    : 88d7103c
+[2023.05.17-18.23.31:027][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.05.17-18.23.31:027][  0]LogD3D11RHI:     DedicatedVideoMemory : 10556014592 bytes
+[2023.05.17-18.23.31:027][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.17-18.23.31:027][  0]LogD3D11RHI:     SharedSystemMemory : 17108582400 bytes
+[2023.05.17-18.23.31:027][  0]LogD3D11RHI:     AdapterLuid : 0 57899
+[2023.05.17-18.23.31:122][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.05.17-18.23.31:122][  0]LogD3D11RHI: Async texture creation enabled
+[2023.05.17-18.23.31:122][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2023.05.17-18.23.31:122][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.05.17-18.23.31:190][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.05.17-18.23.31:231][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.05.17-18.23.31:247][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/k10lab-p4/Downloads/HoshiNoEscape/HorrorEngine.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/k10lab-p4/Downloads/HoshiNoEscape/Intermediate/TurnkeyReport_0.log" -log="C:/Users/k10lab-p4/Downloads/HoshiNoEscape/Intermediate/TurnkeyLog_0.log" -project="C:/Users/k10lab-p4/Downloads/HoshiNoEscape/HorrorEngine.uproject"  -platform=all'
+[2023.05.17-18.23.31:248][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/k10lab-p4/Downloads/HoshiNoEscape/HorrorEngine.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/k10lab-p4/Downloads/HoshiNoEscape/Intermediate/TurnkeyReport_0.log" -log="C:/Users/k10lab-p4/Downloads/HoshiNoEscape/Intermediate/TurnkeyLog_0.log" -project="C:/Users/k10lab-p4/Downloads/HoshiNoEscape/HorrorEngine.uproject"  -platform=all" ]
+[2023.05.17-18.23.31:297][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.05.17-18.23.31:347][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.05.17-18.23.31:347][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.05.17-18.23.31:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.05.17-18.23.31:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.05.17-18.23.31:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.05.17-18.23.31:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.05.17-18.23.31:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.05.17-18.23.31:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.05.17-18.23.31:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.05.17-18.23.31:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.05.17-18.23.31:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.05.17-18.23.31:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.05.17-18.23.31:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.05.17-18.23.31:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.05.17-18.23.31:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.05.17-18.23.31:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.05.17-18.23.31:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.05.17-18.23.31:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.05.17-18.23.31:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.05.17-18.23.31:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.05.17-18.23.31:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.05.17-18.23.31:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.05.17-18.23.31:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.05.17-18.23.31:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.05.17-18.23.31:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.05.17-18.23.31:432][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.05.17-18.23.31:432][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.05.17-18.23.31:432][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.05.17-18.23.31:432][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.05.17-18.23.31:432][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.05.17-18.23.31:487][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.05.17-18.23.31:493][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.05.17-18.23.31:493][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.05.17-18.23.31:493][  0]LogTargetPlatformManager:   ADPCM
+[2023.05.17-18.23.31:493][  0]LogTargetPlatformManager:   PCM
+[2023.05.17-18.23.31:499][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.05.17-18.23.31:499][  0]LogTargetPlatformManager:   BINKA
+[2023.05.17-18.23.31:499][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.05.17-18.23.31:499][  0]LogTargetPlatformManager:   OGG
+[2023.05.17-18.23.31:500][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.05.17-18.23.31:500][  0]LogTargetPlatformManager:   OPUS
+[2023.05.17-18.23.31:818][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.05.17-18.23.31:832][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.05.17-18.23.31:832][  0]LogTargetPlatformManager:   SF_METAL
+[2023.05.17-18.23.31:832][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.05.17-18.23.31:832][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.05.17-18.23.31:832][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.05.17-18.23.31:832][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.05.17-18.23.31:832][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.05.17-18.23.31:832][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.05.17-18.23.31:832][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.05.17-18.23.31:832][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.05.17-18.23.31:832][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.05.17-18.23.31:832][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.05.17-18.23.31:832][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.05.17-18.23.31:832][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.05.17-18.23.31:832][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.05.17-18.23.31:832][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.05.17-18.23.31:850][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.05.17-18.23.31:850][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.05.17-18.23.31:850][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.05.17-18.23.31:850][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.05.17-18.23.31:850][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.05.17-18.23.31:850][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.05.17-18.23.31:850][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.05.17-18.23.31:851][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.05.17-18.23.31:856][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.05.17-18.23.31:862][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.05.17-18.23.31:862][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.05.17-18.23.31:869][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.05.17-18.23.31:879][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.05.17-18.23.31:879][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.05.17-18.23.31:879][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.17-18.23.31:879][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.05.17-18.23.31:916][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.05.17-18.23.31:917][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.17-18.23.31:917][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.05.17-18.23.31:972][  0]LogDerivedDataCache: Speed tests for C:/Users/k10lab-p4/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2023.05.17-18.23.31:973][  0]LogDerivedDataCache: Display: Performance to C:/Users/k10lab-p4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.37ms. RandomReadSpeed=20.29MBs, RandomWriteSpeed=214.00MBs. Assigned SpeedClass 'Local'
+[2023.05.17-18.23.31:976][  0]LogDerivedDataCache: Using Local data cache path C:/Users/k10lab-p4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.05.17-18.23.31:976][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.05.17-18.23.31:976][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.05.17-18.23.31:983][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.05.17-18.23.31:983][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.05.17-18.23.31:998][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Intermediate/Shaders/WorkingDirectory/6072/).
+[2023.05.17-18.23.31:998][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/k10lab-p4/AppData/Local/Temp/UnrealShaderWorkingDir/45DDAFD842DBE93F44BE308EA791676A/'.
+[2023.05.17-18.23.31:999][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.05.17-18.23.31:999][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.05.17-18.23.37:135][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.05.17-18.23.37:135][  0]LogSlate: Using FreeType 2.10.0
+[2023.05.17-18.23.37:143][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.17-18.23.37:214][  0]LogAssetRegistry: FAssetRegistry took 0.0289 seconds to start up
+[2023.05.17-18.23.37:219][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.05.17-18.23.37:594][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.05.17-18.23.37:604][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.05.17-18.23.37:847][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.05.17-18.23.37:847][  0]LogDeviceProfileManager: Active device profile: [000007107A291340][0000071069EA5000 50] WindowsEditor
+[2023.05.17-18.23.37:847][  0]LogDeviceProfileManager: Profiles: [000007107A290E00][0000071069EAA000 50] Windows, [000007107A291340][0000071069EA5000 50] WindowsEditor, [000007107A292680][0000071069EA2800 50] WindowsServer, [000007107A2924C0][0000071069D2A000 50] WindowsClient, [000007107A292300][000007105C9BA000 50] IOS, [000007107A292140][0000071068EB5000 50] iPadAir2, [000007107A294EC0][000007107A282800 50] IPadPro, [000007107A295240][000007107A280000 50] iPadAir3, [000007107A294D00][000007107A287800 50] iPadAir4, [000007107A290540][000007107A28A000 50] iPadMini4, [000007107A291500][000007107A28C800 50] iPadMini5, [000007107A295400][0000071069EA7800 50] iPadMini6, [000007107A297C40][000007107A265000 50] iPhone6S, [000007107A297FC0][000007107A262800 50] iPhone7, [000007107A298340][000007107A260000 50] iPodTouch7, [000007107A294280][000007107A26A000 50] iPhone6SPlus, [000007107A296AC0][000007107A26C800 50] iPhone7Plus, [000007107A292F40][000007107A285000 50] iPhoneSE, [000007107A2986C0][000007107A2B0000 50] iPhone8, [000007107A293800][000007107A2B5000 50] iPhone8Plus, [000007107A297E00][000007107A2B7800 50] iPhoneX, [000007107A291A40][000007107A2BA000 50] iPhoneXS, [000007107A292840][000007107A2BC800 50] iPhoneXSMax, [000007107A298180][000007107A267800 50] iPhoneXR, [000007107A290380][000007107A2C0000 50] iPhone11, [000007107A294B40][000007107A2C5000 50] iPhone11Pro, [000007107A2978C0][000007107A2C7800 50] iPhone11ProMax, [000007107A292A00][000007107A2CA000 50] iPhoneSE2, [000007107A298880][000007107A2CC800 50] iPhone12Mini, [000007107A2971C0][000007107A2B2800 50] iPhone12, [000007107A295940][000007107A2D0000 50] iPhone12Pro, [000007107A291880][000007107A2D5000 50] iPhone12ProMax, [000007107A2947C0][000007107A2D7800 50] iPhone13Mini, [000007107A297700][000007107A2DA000 50] iPhone13, [000007107A292BC0][000007107A2DC800 50] iPhone13Pro, [000007107A2916C0][000007107A2C2800 50] iPhone13ProMax, [000007107A290000][000007107A2E0000 50] iPadPro105, [000007107A295E80][000007107A2E5000 50] iPadPro129, [000007107A294600][000007107A2E7800 50] iPadPro97, [000007107A296040][000007107A2EA000 50] iPadPro2_129, [000007107A295CC0][000007107A2EC800 50] iPad5, [000007107A291DC0][000007107A2D2800 50] iPad6, [000007107A293D40][000007107A2F0000 50] iPad7, [000007107A292D80][000007107A2F5000 50] iPad8, [000007107A293F00][000007107A2F7800 50] iPad9, [000007107A291C00][000007107A2FA000 50] iPadPro11, [000007107A2901C0][000007107A2FC800 50] iPadPro2_11, [000007107A2908C0][000007107A2E2800 50] iPadPro3_11, [000007107A2963C0][000007107A300000 50] iPadPro3_129, [000007107A298C00][000007107A305000 50] iPadPro4_129, [000007107A293B80][000007107A307800 50] iPadPro5_129, [000007107A295B00][000007107A30A000 50] AppleTV, [000007107A296740][000007107A30C800 50] AppleTV4K, [000007107A293100][000007107A2F2800 50] TVOS, [000007107A29A2C0][000007107A312800 50] Mac, [000007107A29A640][000007107A310000 50] MacEditor, [000007107A299680][000007107A317800 50] MacClient, [000007107A296C80][000007107A31A000 50] MacServer, [000007107A29A800][000007107A302800 50] Linux, [000007107A29A100][000007107A31C800 50] LinuxEditor, [000007107A295080][000007107A320000 50] LinuxArm64Editor, [000007107A299840][000007107A325000 50] LinuxArm64, [000007107A298500][000007107A327800 50] LinuxClient, [000007107A299A00][000007107A32A000 50] LinuxArm64Client, [000007107A294980][000007107A32C800 50] LinuxServer, [000007107A2955C0][000007107A315000 50] LinuxArm64Server, [000007107A291180][000007107A330000 50] Android, [000007107A290A80][000007107A335000 50] Android_Preview_OpenGL, [000007107A295780][000007107A337800 50] Android_Preview_Vulkan, [000007107A298DC0][000007107A33A000 50] Android_Low, [000007107A293480][000007107A33C800 50] Android_Mid, [000007107A2994C0][000007107A322800 50] Android_High, [000007107A293640][000007107A340000 50] Android_Default, [000007107A296200][000007107A345000 50] Android_Adreno4xx, [000007107A299BC0][000007107A347800 50] Android_Adreno5xx_Low, [000007107A296E40][000007107A34A000 50] Android_Adreno5xx, [000007107A298F80][000007107A34C800 50] Android_Adreno6xx, [000007107A296580][000007107A332800 50] Android_Adreno6xx_Vulkan, [000007107A29AB80][000007107A350000 50] Android_Adreno7xx, [000007107A297A80][000007107A355000 50] Android_Adreno7xx_Vulkan, [000007107A29BB40][000007107A357800 50] Android_Mali_T6xx, [000007107A299D80][000007107A35A000 50] Android_Mali_T7xx, [000007107A297540][000007107A35C800 50] Android_Mali_T8xx, [000007107A29A480][000007107A342800 50] Android_Mali_G71, [000007107A296900][000007107A360000 50] Android_Mali_G72, [000007107A298A40][000007107A365000 50] Android_Mali_G72_Vulkan, [000007107A297000][000007107A367800 50] Android_Mali_G76, [000007107A2939C0][000007107A36A000 50] Android_Mali_G76_Vulkan, [000007107A29B440][000007107A36C800 50] Android_Mali_G77, [000007107A299300][000007107A352800 50] Android_Mali_G77_Vulkan, [000007107A29C940][000007107A370000 50] Android_Mali_G78, [000007107A29B280][000007107A375000 50] Android_Mali_G78_Vulkan, [000007107A29CB00][000007107A377800 50] Android_Mali_G710, [000007107A29C780][000007107A37A000 50] Android_Mali_G710_Vulkan, [000007107A29C240][000007107A37C800 50] Android_Xclipse_920, [000007107A29B7C0][000007107A362800 50] Android_Xclipse_920_Vulkan, [000007107A29CE80][000007107A380000 50] Android_Vulkan_SM5, [000007107A29AD40][000007107A385000 50] Android_PowerVR_G6xxx, [000007107A299140][000007107A387800 50] Android_PowerVR_GT7xxx, [000007107A297380][000007107A38A000 50] Android_PowerVR_GE8xxx, [000007107A29BEC0][000007107A38C800 50] Android_PowerVR_GM9xxx, [000007107A291F80][000007107A372800 50] Android_PowerVR_GM9xxx_Vulkan, [000007107A290700][000007107A390000 50] Android_TegraK1, [000007107A29DC80][000007107A395000 50] Android_Unknown_Vulkan, [000007107A29D580][000007107A397800 50] Oculus_Quest, [000007107A29E700][000007107A39A000 50] Oculus_Quest2, [000007107A29E1C0][000007107A39C800 50] HoloLens, 
+[2023.05.17-18.23.37:847][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.05.17-18.23.37:867][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.05.17-18.23.37:867][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.05.17-18.23.37:867][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.05.17-18.23.37:867][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.05.17-18.23.37:867][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.05.17-18.23.37:992][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.05.17-18.23.38:284][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.05.17-18.23.38:284][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.05.17-18.23.38:284][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.05.17-18.23.38:284][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.05.17-18.23.38:285][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.05.17-18.23.38:349][  0]LogNetVersion: HorrorEngine 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2357571454)
+[2023.05.17-18.23.38:849][  0]LogSlate: Border
+[2023.05.17-18.23.38:849][  0]LogSlate: BreadcrumbButton
+[2023.05.17-18.23.38:849][  0]LogSlate: Default
+[2023.05.17-18.23.38:849][  0]LogSlate: Icons.Save
+[2023.05.17-18.23.38:849][  0]LogSlate: Icons.Toolbar.Settings
+[2023.05.17-18.23.38:849][  0]LogSlate: ListView
+[2023.05.17-18.23.38:849][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.05.17-18.23.38:849][  0]LogSlate: SoftwareCursor_Grab
+[2023.05.17-18.23.38:849][  0]LogSlate: TableView.DarkRow
+[2023.05.17-18.23.38:849][  0]LogSlate: TableView.Row
+[2023.05.17-18.23.38:849][  0]LogSlate: TreeView
+[2023.05.17-18.23.39:525][  0]SourceControl: Source control is disabled
+[2023.05.17-18.23.39:616][  0]SourceControl: Source control is disabled
+[2023.05.17-18.23.39:616][  0]SourceControl: Source control is disabled
+[2023.05.17-18.23.39:860][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.05.17-18.23.39:860][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.05.17-18.23.39:860][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.05.17-18.23.41:225][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F48BD07E45EEF862C3A140A9C46A89BA | Instance: A74035224A0E17C95D3FC69CEDF274E0 (WS-K10-13-6072).
+[2023.05.17-18.23.41:486][  0]LogPython: Using Python 3.9.7
+[2023.05.17-18.23.42:449][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.05.17-18.23.42:470][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.05.17-18.23.42:726][  0]SourceControl: Source control is disabled
+[2023.05.17-18.23.42:736][  0]SourceControl: Source control is disabled
+[2023.05.17-18.23.42:750][  0]SourceControl: Source control is disabled
+[2023.05.17-18.23.42:914][  0]LogUProjectInfo: Found projects:
+[2023.05.17-18.23.43:768][  0]LogOpenImageDenoise: OIDN starting up
+[2023.05.17-18.23.43:848][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.05.17-18.23.43:877][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.17-18.23.43:877][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.17-18.23.44:098][  0]LogCollectionManager: Loaded 0 collections in 0.002146 seconds
+[2023.05.17-18.23.44:328][  0]LogFileCache: Scanning file cache for directory 'C:/Users/k10lab-p4/Downloads/HoshiNoEscape/Saved/Collections/' took 0.00s
+[2023.05.17-18.23.44:328][  0]LogFileCache: Scanning file cache for directory 'C:/Users/k10lab-p4/Downloads/HoshiNoEscape/Content/Developers/k10labp4/Collections/' took 0.00s
+[2023.05.17-18.23.44:328][  0]LogFileCache: Scanning file cache for directory 'C:/Users/k10lab-p4/Downloads/HoshiNoEscape/Content/Collections/' took 0.00s
+[2023.05.17-18.23.44:761][  0]LogEngine: Initializing Engine...
+[2023.05.17-18.23.44:793][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.05.17-18.23.45:267][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.05.17-18.23.45:272][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.17-18.23.45:311][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-18.23.45:392][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.05.17-18.23.45:413][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.05.17-18.23.45:443][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.05.17-18.23.45:447][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.05.17-18.23.45:447][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.05.17-18.23.45:451][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.05.17-18.23.45:451][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.05.17-18.23.45:453][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.17-18.23.45:453][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.17-18.23.45:454][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.17-18.23.45:454][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.17-18.23.45:454][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.17-18.23.45:454][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.17-18.23.45:454][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.17-18.23.45:455][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.17-18.23.45:457][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.17-18.23.45:457][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.17-18.23.45:457][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.17-18.23.45:481][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.17-18.23.45:556][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.17-18.23.45:559][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.17-18.23.45:577][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.17-18.23.45:577][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.17-18.23.45:580][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.05.17-18.23.45:581][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.17-18.23.45:582][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.17-18.23.45:582][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.05.17-18.23.45:582][  0]LogInit: FAudioDevice initialized.
+[2023.05.17-18.23.45:582][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.05.17-18.23.45:583][  0]LogNetVersion: Set ProjectVersion to 2. Version Checksum will be recalculated on next use.
+[2023.05.17-18.23.45:583][  0]LogInit: Texture streaming: Enabled
+[2023.05.17-18.23.45:631][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.05.17-18.23.45:642][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.05.17-18.23.45:642][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={14EF2A7A-4909-40ED-4FE4-4EBF331510F1}
+[2023.05.17-18.23.45:681][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.05.17-18.23.45:694][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.05.17-18.23.45:694][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.05.17-18.23.47:348][  0]LogLiveCoding: Display: First instance in process group "UE_HorrorEngine_0x4739d427", spawning console
+[2023.05.17-18.23.47:348][  0]LogLiveCoding: Display: Waiting for server
+[2023.05.17-18.23.47:348][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.05.17-18.23.47:369][  0]LogInit: Transaction tracking system initialized
+[2023.05.17-18.23.47:529][  0]BlueprintLog: New page: Editor Load
+[2023.05.17-18.23.47:940][  0]LocalizationService: Localization service is disabled
+[2023.05.17-18.23.48:042][  0]TimingProfiler: Initialize
+[2023.05.17-18.23.48:044][  0]TimingProfiler: OnSessionChanged
+[2023.05.17-18.23.48:044][  0]LoadingProfiler: Initialize
+[2023.05.17-18.23.48:044][  0]LoadingProfiler: OnSessionChanged
+[2023.05.17-18.23.48:048][  0]NetworkingProfiler: Initialize
+[2023.05.17-18.23.48:052][  0]NetworkingProfiler: OnSessionChanged
+[2023.05.17-18.23.48:052][  0]MemoryProfiler: Initialize
+[2023.05.17-18.23.48:052][  0]MemoryProfiler: OnSessionChanged
+[2023.05.17-18.23.49:351][  0]LogFileCache: Scanning file cache for directory 'C:/Users/k10lab-p4/Downloads/HoshiNoEscape/Content/' took 0.01s
+[2023.05.17-18.23.49:351][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.05.17-18.23.49:461][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.05.17-18.23.49:469][  0]SourceControl: Source control is disabled
+[2023.05.17-18.23.49:591][  0]LogSlate: Took 0.005418 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.17-18.24.04:965][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2023.05.17-18.24.07:777][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2023.05.17-18.24.07:782][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/HorrorEngine/AI/Drunk_Running_Left_Turn
+/Game/HorrorEngine/AI/Drunk_Running_Left_Turn_Skeleton
+/Game/HorrorEngine/AI/Drunk_Running_Left_Turn_PhysicsAsset
+/Game/HorrorEngine/Maps/HoshiNETest
+[2023.05.17-18.24.07:820][  0]LogUnrealEdMisc: Loading editor; pre map load, took 46.507
+[2023.05.17-18.24.07:824][  0]Cmd: MAP LOAD FILE="../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Content/HorrorEngine/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.17-18.24.07:832][  0]LightingResults: New page: Lighting Build
+[2023.05.17-18.24.07:845][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-18.24.07:849][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.24.07:851][  0]MapCheck: New page: Map Check
+[2023.05.17-18.24.07:851][  0]LightingResults: New page: Lighting Build
+[2023.05.17-18.24.07:876][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.17-18.24.07:893][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.05.17-18.24.24:089][  0]LogLinker: Warning: Failed to load '/Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventFix': Can't find file.
+[2023.05.17-18.24.24:089][  0]LogLinker: Warning: Failed to load '/Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventFix': Can't find file.
+[2023.05.17-18.24.24:090][  0]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventFix.HorrorEventFix'
+[2023.05.17-18.24.24:123][  0]LogLinker: Warning: Failed to load '/Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventsMasterFix': Can't find file.
+[2023.05.17-18.24.24:123][  0]LogLinker: Warning: Failed to load '/Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventsMasterFix': Can't find file.
+[2023.05.17-18.24.24:123][  0]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventsMasterFix.HorrorEventsMasterFix'
+[2023.05.17-18.24.26:501][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Overview'.
+[2023.05.17-18.24.26:501][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.17-18.24.26:501][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-18.24.26:502][  0]LogAIModule: Creating AISystem for world Overview
+[2023.05.17-18.24.26:571][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.17-18.24.26:630][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_VhsGlow'
+[2023.05.17-18.24.26:630][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_VhsGlow'
+[2023.05.17-18.24.26:630][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_VhsGlow'
+[2023.05.17-18.24.26:630][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_TvGlow'
+[2023.05.17-18.24.26:630][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_TvGlow'
+[2023.05.17-18.24.26:630][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_TvGlow'
+[2023.05.17-18.24.26:654][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.05.17-18.24.26:656][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.17-18.24.26:657][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.674ms to complete.
+[2023.05.17-18.24.26:658][  0]LogFileHelpers: Loading map 'Overview' took 18.834
+[2023.05.17-18.24.26:740][  0]LogUnrealEdMisc: Total Editor Startup Time, took 65.428
+[2023.05.17-18.24.26:740][  0]LogShaderCompilers: Display: ================================================
+[2023.05.17-18.24.26:740][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.17-18.24.26:740][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.05.17-18.24.26:741][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.05.17-18.24.26:741][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.05.17-18.24.26:741][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.17-18.24.26:741][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.17-18.24.26:741][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.17-18.24.26:741][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.17-18.24.26:741][  0]LogShaderCompilers: Display: ================================================
+[2023.05.17-18.24.26:866][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.24.26:875][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.24.26:883][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.24.26:888][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.24.27:126][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.05.17-18.24.27:128][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.17-18.24.27:139][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.05.17-18.24.27:139][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.17-18.24.27:148][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.05.17-18.24.27:148][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.17-18.24.27:157][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.05.17-18.24.27:157][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.17-18.24.27:170][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.05.17-18.24.27:170][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.17-18.24.27:179][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.05.17-18.24.27:179][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.17-18.24.27:186][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.05.17-18.24.27:186][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.17-18.24.27:194][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.05.17-18.24.27:194][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.17-18.24.27:200][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.05.17-18.24.27:200][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.17-18.24.27:207][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.05.17-18.24.27:207][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.17-18.24.27:208][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.05.17-18.24.27:478][  0]LogSlate: Took 0.004306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.05.17-18.24.27:484][  0]LogSlate: Took 0.004093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.05.17-18.24.27:510][  0]LogViewport: Scene viewport resized to 1526x942, mode Windowed.
+[2023.05.17-18.24.27:699][  0]LogStall: Startup...
+[2023.05.17-18.24.27:701][  0]LogStall: Startup complete.
+[2023.05.17-18.24.27:724][  0]LogLoad: (Engine Initialization) Total time: 66.41 seconds
+[2023.05.17-18.24.27:724][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.05.17-18.24.27:775][  0]LogAssetRegistry: Asset discovery search completed in 50.5737 seconds
+[2023.05.17-18.24.27:811][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.05.17-18.24.27:846][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.05.17-18.24.27:908][  0]LogSlate: Took 0.004667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.05.17-18.24.28:149][  3]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.17-18.24.36:088][109]LogSlate: Took 0.005590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.05.17-18.24.36:106][109]LogSlate: Took 0.005071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.17-18.24.48:828][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.05.17-18.24.51:399][626]LogAssetEditorSubsystem: Opening Asset editor for World /Game/HorrorEngine/Maps/HoshiNETest.HoshiNETest
+[2023.05.17-18.24.51:400][626]Cmd: MAP LOAD FILE="../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Content/HorrorEngine/Maps/HoshiNETest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.17-18.24.51:400][626]LightingResults: New page: Lighting Build
+[2023.05.17-18.24.51:400][626]LoadErrors: New page: Loading map: HoshiNETest.umap
+[2023.05.17-18.24.51:409][626]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-18.24.51:410][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.24.51:411][626]MapCheck: New page: Map Check
+[2023.05.17-18.24.51:411][626]LightingResults: New page: Lighting Build
+[2023.05.17-18.24.51:434][626]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.17-18.24.51:448][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.05.17-18.24.51:463][626]LogWorld: UWorld::CleanupWorld for HoshiNETest, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-18.24.51:469][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.24.51:502][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.05.17-18.24.51:526][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.05.17-18.24.51:699][626]LogAudio: Display: Audio Device (ID: 1) registered with world 'HoshiNETest'.
+[2023.05.17-18.24.51:699][626]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.17-18.24.51:699][626]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-18.24.51:700][626]LogAIModule: Creating AISystem for world HoshiNETest
+[2023.05.17-18.24.52:088][626]LogScript: Warning: Accessed None trying to read property StaticMesh
+	HorrorEngineFunctions_C /Game/HorrorEngine/Blueprints/Core/HorrorEngineFunctions.Default__HorrorEngineFunctions_C
+	Function /Game/HorrorEngine/Blueprints/Core/HorrorEngineFunctions.HorrorEngineFunctions_C:SetMesh:001C
+[2023.05.17-18.24.52:092][626]LogScript: Warning: Accessed None trying to read property StaticMesh
+	HorrorEngineFunctions_C /Game/HorrorEngine/Blueprints/Core/HorrorEngineFunctions.Default__HorrorEngineFunctions_C
+	Function /Game/HorrorEngine/Blueprints/Core/HorrorEngineFunctions.HorrorEngineFunctions_C:SetMesh:001C
+[2023.05.17-18.24.52:204][626]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.17-18.24.52:260][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.05.17-18.24.52:271][626]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.17-18.24.52:271][626]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.266ms to complete.
+[2023.05.17-18.24.52:271][626]LogFileHelpers: Loading map 'HoshiNETest' took 0.870
+[2023.05.17-18.25.32:234][735]LogDerivedDataCache: C:/Users/k10lab-p4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.259 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.17-18.25.52:194][834]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.17-18.25.52:194][834]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.17-18.25.53:221][951]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HorrorEngine/AI/test.test
+[2023.05.17-18.25.53:223][951]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-18.25.54:861][952]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-18.25.58:594][156]LogSlate: Window 'test' being destroyed
+[2023.05.17-18.25.58:597][156]LogSlate: Window 'test' being destroyed
+[2023.05.17-18.25.58:604][156]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-18.25.58:604][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.26.00:448][260]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HorrorEngine/AI/test.test
+[2023.05.17-18.26.00:449][260]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-18.26.00:867][261]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-18.26.02:631][358]LogLinker: Warning: Failed to load '/Game/HorrorEngine/Textures/HUD/YouDied': Can't find file.
+[2023.05.17-18.26.02:631][358]LogLinker: Warning: Failed to load '/Game/HorrorEngine/Textures/HUD/YouDied': Can't find file.
+[2023.05.17-18.26.02:631][358]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/HorrorEngine/Textures/HUD/YouDied.YouDied'
+[2023.05.17-18.26.09:812][752]LogSlate: Window 'test' being destroyed
+[2023.05.17-18.26.09:818][752]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-18.26.09:818][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.26.09:849][752]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HorrorEngine/AI/test.test
+[2023.05.17-18.26.09:849][752]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-18.26.10:352][752]LogSlate: Took 0.004827 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.17-18.26.20:326][300]LogSlate: Window 'test' being destroyed
+[2023.05.17-18.28.58:078][766]BlueprintLog: New page: Compile test
+[2023.05.17-18.28.58:135][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.05.17-18.29.02:350][984]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.17-18.29.02:359][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.17-18.29.02:359][984]PIE: New page: PIE session: HoshiNETest (May 17, 2023, 4:29:02 AM)
+[2023.05.17-18.29.02:364][984]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.05.17-18.29.02:364][984]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.05.17-18.29.02:365][984]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest
+[2023.05.17-18.29.02:592][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.226279s)
+[2023.05.17-18.29.02:592][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/HoshiNETest.HoshiNETest to /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest (0.227592s)
+[2023.05.17-18.29.02:592][984]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.17-18.29.02:592][984]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-18.29.02:592][984]LogAIModule: Creating AISystem for world HoshiNETest
+[2023.05.17-18.29.02:593][984]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2023.05.17-18.29.02:623][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.05.17-18.29.02:624][984]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.05.17-18.29.02:624][984]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.17-18.29.02:624][984]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.17-18.29.02:624][984]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.17-18.29.02:624][984]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.17-18.29.02:624][984]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.17-18.29.02:624][984]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.17-18.29.02:624][984]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.17-18.29.02:624][984]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.17-18.29.02:625][984]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.17-18.29.02:625][984]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.17-18.29.02:625][984]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.17-18.29.02:626][984]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.17-18.29.02:690][984]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.17-18.29.02:690][984]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.17-18.29.02:690][984]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.17-18.29.02:690][984]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.17-18.29.02:691][984]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.05.17-18.29.02:691][984]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.05.17-18.29.02:692][984]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.05.17-18.29.02:692][984]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.05.17-18.29.02:692][984]LogInit: FAudioDevice initialized.
+[2023.05.17-18.29.02:692][984]LogAudio: Display: Audio Device (ID: 2) registered with world 'HoshiNETest'.
+[2023.05.17-18.29.02:741][984]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2023.05.17-18.29.02:815][984]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest up for play (max tick rate 0) at 2023.05.17-11.29.02
+[2023.05.17-18.29.02:823][984]LogWorld: Bringing up level for play took: 0.082002
+[2023.05.17-18.29.02:825][984]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.05.17-18.29.02:830][984]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.17-18.29.02:871][984]LogStreaming: Warning: Failed to read file '../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Saved/SaveGames/SaveSlotList.sav' error.
+[2023.05.17-18.29.02:891][984]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'AddChannels' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/Tv.Tv_C'!
+[2023.05.17-18.29.02:891][984]LogMediaAssets: Warning: TV.OpenSource called with null MediaSource
+[2023.05.17-18.29.02:892][984]PIE: Server logged in
+[2023.05.17-18.29.02:894][984]PIE: Play in editor total start time 0.538 seconds.
+[2023.05.17-18.29.30:454][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.29.30:454][387]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest
+[2023.05.17-18.29.30:456][387]LogWorld: UWorld::CleanupWorld for HoshiNETest, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-18.29.30:465][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.29.30:475][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.17-18.29.30:484][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.29.30:516][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.29.30:524][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.17-18.29.30:525][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.05.17-18.29.30:586][387]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2023.05.17-18.29.30:748][388]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.05.17-18.29.44:002][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.05.17-18.29.48:051][117]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.17-18.29.48:170][117]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-18.29.48:170][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.29.48:213][117]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/HorrorEngine/AI/Beta_HighLimbsGeoSG3.Beta_HighLimbsGeoSG3
+	Asset Type: Material
+	Asset Name: /Game/HorrorEngine/AI/Beta_Joints_MAT1.Beta_Joints_MAT1
+	Asset Type: Material
+	Asset Name: /Game/HorrorEngine/AI/Drunk_Running_Left_Turn.Drunk_Running_Left_Turn
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/HorrorEngine/AI/Drunk_Running_Left_Turn_Anim_mixamo_com.Drunk_Running_Left_Turn_Anim_mixamo_com
+	Asset Type: AnimSequence
+	Asset Name: /Game/HorrorEngine/AI/Drunk_Running_Left_Turn_Anim_Take_001.Drunk_Running_Left_Turn_Anim_Take_001
+	Asset Type: AnimSequence
+	Asset Name: /Game/HorrorEngine/AI/Drunk_Running_Left_Turn_PhysicsAsset.Drunk_Running_Left_Turn_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/HorrorEngine/AI/Drunk_Running_Left_Turn_Skeleton.Drunk_Running_Left_Turn_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/HorrorEngine/AI/test.test
+	Asset Type: Blueprint
+[2023.05.17-18.29.48:789][117]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Drunk_Running_Left_Turn) ...
+[2023.05.17-18.29.48:821][117]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Drunk_Running_Left_Turn) ...
+[2023.05.17-18.29.48:842][117]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Drunk_Running_Left_Turn) ...
+[2023.05.17-18.29.48:871][117]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Drunk_Running_Left_Turn) ...
+[2023.05.17-18.29.48:935][117]LogAnimation: Warning: Invalid animation
+[2023.05.17-18.29.48:944][117]LogAnimation: Warning: Invalid animation
+[2023.05.17-18.29.49:041][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.05.17-18.29.49:293][117]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2023.05.17-18.29.51:489][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.05.17-18.29.51:517][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.05.17-18.29.51:538][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.05.17-18.30.58:866][652]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/k10lab-p4/Downloads/Running.fbx)
+[2023.05.17-18.30.58:904][652]LogFbx: Loading FBX Scene from ../../../../../../Users/k10lab-p4/Downloads/Running.fbx
+[2023.05.17-18.30.58:953][652]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.17-18.31.02:008][652]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.17-18.31.02:029][652]LogFbx: Valid bind pose for Pose (skinCluster1) - Beta_Surface
+[2023.05.17-18.31.02:029][652]LogFbx: Valid bind pose for Pose (skinCluster2) - Beta_Surface
+[2023.05.17-18.31.02:036][652]LogMaterial: Display: Material /Game/HorrorEngine/AI/Beta_HighLimbsGeoSG3.Beta_HighLimbsGeoSG3 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.17-18.31.02:040][652]LogMaterial: Display: Missing cached shadermap for Beta_HighLimbsGeoSG3 in PCD3D_SM5, Default, SM5 (DDC key hash: 7F8A92243813CE50F102883C647CC1CBC42B9395), compiling. 
+[2023.05.17-18.31.02:126][652]LogMaterial: Display: Missing cached shadermap for Beta_HighLimbsGeoSG3 in PCD3D_SM5, Default, SM5 (DDC key hash: E24FDCC87EEBAA1358EDDB879DA3F6E3572E5441), compiling. 
+[2023.05.17-18.31.02:151][652]LogFbx: Triangulating skeletal mesh Beta_Surface
+[2023.05.17-18.31.02:500][652]LogMaterial: Display: Material /Game/HorrorEngine/AI/Beta_Joints_MAT1.Beta_Joints_MAT1 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.05.17-18.31.02:505][652]LogMaterial: Display: Missing cached shadermap for Beta_Joints_MAT1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9B0344ECB1C656212CB6895DE130EADAACDBB57F), compiling. 
+[2023.05.17-18.31.02:538][652]LogMaterial: Display: Missing cached shadermap for Beta_Joints_MAT1 in PCD3D_SM5, Default, SM5 (DDC key hash: 84BB607E1BC8D3F079D3029043A6FCB28941E05D), compiling. 
+[2023.05.17-18.31.02:560][652]LogFbx: Triangulating skeletal mesh Beta_Joints
+[2023.05.17-18.31.02:848][652]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2023.05.17-18.31.03:798][652]LogSkeletalMesh: Section 0: Material=0, 28272 triangles
+[2023.05.17-18.31.03:798][652]LogSkeletalMesh: Section 1: Material=1, 20840 triangles
+[2023.05.17-18.31.03:823][652]LogSkeletalMesh: Building Skeletal Mesh Running...
+[2023.05.17-18.31.03:823][652]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Running) ...
+[2023.05.17-18.31.04:704][652]LogSkeletalMesh: Built Skeletal Mesh [0.89s] /Game/HorrorEngine/AI/Running.Running
+[2023.05.17-18.31.04:706][652]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-18.31.04:709][652]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-18.31.04:709][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(0) Hips
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(1) Spine
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(2) Spine1
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(3) Spine2
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(4) Neck
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(5) Head
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(7) RightShoulder
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(8) RightArm
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(9) RightForeArm
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(10) RightHand
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(11) RightHandThumb1
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(12) RightHandThumb2
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(13) RightHandThumb3
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(14) RightHandThumb4
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(15) RightHandIndex1
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(16) RightHandIndex2
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(17) RightHandIndex3
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(18) RightHandIndex4
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(19) RightHandMiddle1
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(20) RightHandMiddle2
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(21) RightHandMiddle3
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(22) RightHandMiddle4
+[2023.05.17-18.31.04:719][652]LogFbx: SortedLinks :(23) RightHandRing1
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(24) RightHandRing2
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(25) RightHandRing3
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(26) RightHandRing4
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(27) RightHandPinky1
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(28) RightHandPinky2
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(29) RightHandPinky3
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(30) RightHandPinky4
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(31) LeftShoulder
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(32) LeftArm
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(33) LeftForeArm
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(34) LeftHand
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(35) LeftHandThumb1
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(36) LeftHandThumb2
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(37) LeftHandThumb3
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(38) LeftHandThumb4
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(39) LeftHandIndex1
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(40) LeftHandIndex2
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(41) LeftHandIndex3
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(42) LeftHandIndex4
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(43) LeftHandMiddle1
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(44) LeftHandMiddle2
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(45) LeftHandMiddle3
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(46) LeftHandMiddle4
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(47) LeftHandRing1
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(48) LeftHandRing2
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(49) LeftHandRing3
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(50) LeftHandRing4
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(51) LeftHandPinky1
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(52) LeftHandPinky2
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(53) LeftHandPinky3
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(54) LeftHandPinky4
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(55) RightUpLeg
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(56) RightLeg
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(57) RightFoot
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(58) RightToeBase
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(59) RightToe_End
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(60) LeftUpLeg
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(61) LeftLeg
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(62) LeftFoot
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(63) LeftToeBase
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(64) LeftToe_End
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(0) Hips
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(1) Spine
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(2) Spine1
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(3) Spine2
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(4) Neck
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(5) Head
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(7) RightShoulder
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(8) RightArm
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(9) RightForeArm
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(10) RightHand
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(11) RightHandThumb1
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(12) RightHandThumb2
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(13) RightHandThumb3
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(14) RightHandThumb4
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(15) RightHandIndex1
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(16) RightHandIndex2
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(17) RightHandIndex3
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(18) RightHandIndex4
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(19) RightHandMiddle1
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(20) RightHandMiddle2
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(21) RightHandMiddle3
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(22) RightHandMiddle4
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(23) RightHandRing1
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(24) RightHandRing2
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(25) RightHandRing3
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(26) RightHandRing4
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(27) RightHandPinky1
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(28) RightHandPinky2
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(29) RightHandPinky3
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(30) RightHandPinky4
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(31) LeftShoulder
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(32) LeftArm
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(33) LeftForeArm
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(34) LeftHand
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(35) LeftHandThumb1
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(36) LeftHandThumb2
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(37) LeftHandThumb3
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(38) LeftHandThumb4
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(39) LeftHandIndex1
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(40) LeftHandIndex2
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(41) LeftHandIndex3
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(42) LeftHandIndex4
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(43) LeftHandMiddle1
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(44) LeftHandMiddle2
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(45) LeftHandMiddle3
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(46) LeftHandMiddle4
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(47) LeftHandRing1
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(48) LeftHandRing2
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(49) LeftHandRing3
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(50) LeftHandRing4
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(51) LeftHandPinky1
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(52) LeftHandPinky2
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(53) LeftHandPinky3
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(54) LeftHandPinky4
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(55) RightUpLeg
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(56) RightLeg
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(57) RightFoot
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(58) RightToeBase
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(59) RightToe_End
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(60) LeftUpLeg
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(61) LeftLeg
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(62) LeftFoot
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(63) LeftToeBase
+[2023.05.17-18.31.04:720][652]LogFbx: SortedLinks :(64) LeftToe_End
+[2023.05.17-18.31.04:721][652]LogFbx: Parsing AnimStack Take 001
+[2023.05.17-18.31.04:921][652]LogFbx: Parsing AnimStack mixamo.com
+[2023.05.17-18.31.04:994][652]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HorrorEngine/AI/Running_Anim_Take_001.Running_Anim_Take_001
+[2023.05.17-18.31.04:994][652]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/HorrorEngine/AI/Running_Anim_mixamo_com.Running_Anim_mixamo_com
+[2023.05.17-18.31.05:000][652]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.17-18.31.06:121][685]LogShaderCompilers: Display: ================================================
+[2023.05.17-18.31.06:121][685]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.17-18.31.06:121][685]LogShaderCompilers: Display: Total job queries 72, among them cache hits 0 (0.00%)
+[2023.05.17-18.31.06:121][685]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 1 distinct outputs (50.00%)
+[2023.05.17-18.31.06:121][685]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.05.17-18.31.06:121][685]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.17-18.31.06:121][685]LogShaderCompilers: Display: Shaders Compiled: 64
+[2023.05.17-18.31.06:121][685]LogShaderCompilers: Display: Jobs assigned 8, completed 2 (25.00%)
+[2023.05.17-18.31.06:122][685]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.08 s
+[2023.05.17-18.31.06:122][685]LogShaderCompilers: Display: Job execution time: average 0.96 s, max 0.96 s
+[2023.05.17-18.31.06:122][685]LogShaderCompilers: Display: Job life time (pending + execution): average 1.03 s, max 1.04
+[2023.05.17-18.31.06:122][685]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.04 s
+[2023.05.17-18.31.06:122][685]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.17-18.31.06:122][685]LogShaderCompilers: Display: Average processing rate: 1.92 jobs/sec
+[2023.05.17-18.31.06:122][685]LogShaderCompilers: Display: Effective parallelization: 0.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.17-18.31.06:122][685]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.05.17-18.31.06:122][685]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.35 sec, max 0.36 sec, min 0.35 sec)
+[2023.05.17-18.31.06:122][685]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.05.17-18.31.06:122][685]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    2 times, average 0.35 sec, max 0.36 sec, min 0.35 sec)
+[2023.05.17-18.31.06:122][685]LogShaderCompilers: Display: ================================================
+[2023.05.17-18.31.29:322][820]LogSlate: Window 'Message Log' being destroyed
+[2023.05.17-18.31.29:325][820]LogSlate: Window 'Message Log' being destroyed
+[2023.05.17-18.31.32:355][976]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.17-18.31.32:355][976]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.17-18.31.35:260][307]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.17-18.31.35:260][307]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.17-18.31.36:868][495]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.17-18.31.36:868][495]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.17-18.31.41:588][ 49]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.17-18.31.41:588][ 49]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.05.17-18.31.57:506][260]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.17-18.32.02:778][260]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.17-18.32.02:784][260]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.05.17-18.32.02:789][260]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.05.17-18.32.02:800][261]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.05.17-18.32.06:759][469]LogContentBrowser: Attempting asset rename: NewBlueprint -> test
+[2023.05.17-18.32.06:765][469]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.05.17-18.32.08:543][557]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HorrorEngine/AI/test.test
+[2023.05.17-18.32.08:543][557]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-18.32.08:983][557]LogViewport: Scene viewport resized to 1141x917, mode Windowed.
+[2023.05.17-18.32.20:097][857]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-18.32.22:165][ 90]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.17-18.32.55:631][ 25]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-18.34.39:863][469]BlueprintLog: New page: Compile test
+[2023.05.17-18.34.39:917][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.17-18.34.50:530][367]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.17-18.34.50:534][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.17-18.34.50:534][367]PIE: New page: PIE session: HoshiNETest (May 17, 2023, 4:34:50 AM)
+[2023.05.17-18.34.50:534][367]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest
+[2023.05.17-18.34.50:749][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.215259s)
+[2023.05.17-18.34.50:749][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/HoshiNETest.HoshiNETest to /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest (0.215358s)
+[2023.05.17-18.34.50:749][367]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.17-18.34.50:750][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-18.34.50:751][367]LogAIModule: Creating AISystem for world HoshiNETest
+[2023.05.17-18.34.50:751][367]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2023.05.17-18.34.50:783][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.05.17-18.34.50:785][367]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.05.17-18.34.50:785][367]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.17-18.34.50:785][367]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.17-18.34.50:785][367]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.17-18.34.50:785][367]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.17-18.34.50:785][367]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.17-18.34.50:785][367]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.17-18.34.50:785][367]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.17-18.34.50:785][367]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.17-18.34.50:786][367]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.17-18.34.50:786][367]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.17-18.34.50:786][367]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.17-18.34.50:787][367]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.17-18.34.50:849][367]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.17-18.34.50:849][367]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.17-18.34.50:849][367]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.17-18.34.50:849][367]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.17-18.34.50:850][367]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.05.17-18.34.50:850][367]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.05.17-18.34.50:851][367]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.05.17-18.34.50:851][367]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.05.17-18.34.50:851][367]LogInit: FAudioDevice initialized.
+[2023.05.17-18.34.50:851][367]LogAudio: Display: Audio Device (ID: 3) registered with world 'HoshiNETest'.
+[2023.05.17-18.34.50:862][367]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2023.05.17-18.34.50:937][367]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest up for play (max tick rate 0) at 2023.05.17-11.34.50
+[2023.05.17-18.34.50:938][367]LogWorld: Bringing up level for play took: 0.075590
+[2023.05.17-18.34.50:940][367]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.05.17-18.34.50:940][367]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.17-18.34.50:956][367]LogStreaming: Warning: Failed to read file '../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Saved/SaveGames/SaveSlotList.sav' error.
+[2023.05.17-18.34.50:968][367]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'AddChannels' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/Tv.Tv_C'!
+[2023.05.17-18.34.50:968][367]LogMediaAssets: Warning: TV.OpenSource called with null MediaSource
+[2023.05.17-18.34.50:969][367]PIE: Server logged in
+[2023.05.17-18.34.50:970][367]PIE: Play in editor total start time 0.436 seconds.
+[2023.05.17-18.34.53:636][543]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/HorrorEngine/AI/test.test_C
+[2023.05.17-18.34.53:636][543]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/HorrorEngine/AI/test.test_C
+[2023.05.17-18.34.53:638][543]LogActorFactory: Actor Factory spawned Blueprint /Game/HorrorEngine/AI/test.test as actor: test_C /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest:PersistentLevel.test_C_0
+[2023.05.17-18.34.53:639][543]LogActorFactory: Actor Factory spawned Blueprint /Game/HorrorEngine/AI/test.test as actor: test_C /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest:PersistentLevel.test_C_0
+[2023.05.17-18.34.58:341][760]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/HorrorEngine/AI/test.test_C
+[2023.05.17-18.34.58:341][760]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/HorrorEngine/AI/test.test_C
+[2023.05.17-18.34.58:348][760]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1379.133 Y=-7294.738 Z=498.029] for [test_C]
+[2023.05.17-18.34.58:348][760]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/HorrorEngine/AI/test.test_C
+[2023.05.17-18.34.58:349][760]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1379.133 Y=-7294.738 Z=498.029] for [test_C]
+[2023.05.17-18.35.01:460][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.35.01:460][971]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest
+[2023.05.17-18.35.01:461][971]LogWorld: UWorld::CleanupWorld for HoshiNETest, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-18.35.01:470][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.35.01:482][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.17-18.35.01:489][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.35.01:523][971]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.17-18.35.01:529][971]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.17-18.35.01:531][971]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.17-18.35.01:534][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.35.01:555][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.05.17-18.35.01:580][972]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.05.17-18.35.04:922][171]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/HorrorEngine/AI/test.test_C
+[2023.05.17-18.35.04:922][171]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/HorrorEngine/AI/test.test_C
+[2023.05.17-18.35.04:924][171]LogActorFactory: Actor Factory spawned Blueprint /Game/HorrorEngine/AI/test.test as actor: test_C /Game/HorrorEngine/Maps/HoshiNETest.HoshiNETest:PersistentLevel.test_C_0
+[2023.05.17-18.35.04:925][171]LogActorFactory: Actor Factory spawned Blueprint /Game/HorrorEngine/AI/test.test as actor: test_C /Game/HorrorEngine/Maps/HoshiNETest.HoshiNETest:PersistentLevel.test_C_0
+[2023.05.17-18.35.08:584][602]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/HorrorEngine/AI/test.test_C
+[2023.05.17-18.35.08:584][602]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/HorrorEngine/AI/test.test_C
+[2023.05.17-18.35.08:586][602]LogActorFactory: Actor Factory spawned Blueprint /Game/HorrorEngine/AI/test.test as actor: test_C /Game/HorrorEngine/Maps/HoshiNETest.HoshiNETest:PersistentLevel.test_C_1
+[2023.05.17-18.35.08:587][602]LogActorFactory: Actor Factory spawned Blueprint /Game/HorrorEngine/AI/test.test as actor: test_C /Game/HorrorEngine/Maps/HoshiNETest.HoshiNETest:PersistentLevel.test_C_1
+[2023.05.17-18.35.08:727][602]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-18.35.14:931][922]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.17-18.35.23:920][382]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.17-18.35.23:926][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.17-18.35.23:926][382]PIE: New page: PIE session: HoshiNETest (May 17, 2023, 4:35:23 AM)
+[2023.05.17-18.35.23:926][382]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest
+[2023.05.17-18.35.24:140][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.213035s)
+[2023.05.17-18.35.24:140][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/HoshiNETest.HoshiNETest to /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest (0.213130s)
+[2023.05.17-18.35.24:140][382]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.17-18.35.24:140][382]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-18.35.24:141][382]LogAIModule: Creating AISystem for world HoshiNETest
+[2023.05.17-18.35.24:142][382]LogPlayLevel: PIE: World Init took: (0.001529s)
+[2023.05.17-18.35.24:172][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.05.17-18.35.24:174][382]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.05.17-18.35.24:174][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.17-18.35.24:174][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.17-18.35.24:174][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.17-18.35.24:174][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.17-18.35.24:174][382]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.17-18.35.24:174][382]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.17-18.35.24:174][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.17-18.35.24:174][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.17-18.35.24:174][382]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.17-18.35.24:174][382]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.17-18.35.24:174][382]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.17-18.35.24:176][382]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.17-18.35.24:240][382]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.17-18.35.24:240][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.17-18.35.24:240][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.17-18.35.24:240][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.17-18.35.24:241][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.05.17-18.35.24:241][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.05.17-18.35.24:242][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.05.17-18.35.24:242][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.05.17-18.35.24:242][382]LogInit: FAudioDevice initialized.
+[2023.05.17-18.35.24:242][382]LogAudio: Display: Audio Device (ID: 4) registered with world 'HoshiNETest'.
+[2023.05.17-18.35.24:253][382]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2023.05.17-18.35.24:324][382]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest up for play (max tick rate 0) at 2023.05.17-11.35.24
+[2023.05.17-18.35.24:325][382]LogWorld: Bringing up level for play took: 0.072892
+[2023.05.17-18.35.24:327][382]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.05.17-18.35.24:327][382]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.17-18.35.24:344][382]LogStreaming: Warning: Failed to read file '../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Saved/SaveGames/SaveSlotList.sav' error.
+[2023.05.17-18.35.24:356][382]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'AddChannels' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/Tv.Tv_C'!
+[2023.05.17-18.35.24:356][382]LogMediaAssets: Warning: TV.OpenSource called with null MediaSource
+[2023.05.17-18.35.24:356][382]PIE: Server logged in
+[2023.05.17-18.35.24:357][382]PIE: Play in editor total start time 0.432 seconds.
+[2023.05.17-18.35.38:470][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.35.38:470][317]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest
+[2023.05.17-18.35.38:472][317]LogWorld: UWorld::CleanupWorld for HoshiNETest, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-18.35.38:480][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.35.38:493][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.17-18.35.38:502][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.35.38:533][317]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.17-18.35.38:533][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.17-18.35.38:534][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.17-18.35.38:537][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.35.38:569][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.05.17-18.35.38:628][318]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.05.17-18.35.38:694][318]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-18.35.48:846][263]LogViewport: Scene viewport resized to 1141x915, mode Windowed.
+[2023.05.17-18.35.52:102][653]BlueprintLog: New page: Compile test
+[2023.05.17-18.35.52:189][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.05.17-18.35.59:562][520]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-18.36.23:223][886]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-18.36.49:372][795]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/HorrorEngine/AI/Running.Running
+[2023.05.17-18.36.49:454][795]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-18.36.49:515][795]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.17-18.36.50:182][795]LogViewport: Scene viewport resized to 738x528, mode Windowed.
+[2023.05.17-18.36.52:566][ 38]LogSlate: Window 'Running' being destroyed
+[2023.05.17-18.36.52:569][ 38]LogSlate: Window 'Running' being destroyed
+[2023.05.17-18.36.52:573][ 38]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-18.36.52:573][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.37.20:493][370]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/HorrorEngine/AI/Running_Anim_mixamo_com.Running_Anim_mixamo_com
+[2023.05.17-18.37.20:494][370]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/HorrorEngine/AI/Running_Anim_mixamo_com.Running_Anim_mixamo_com
+[2023.05.17-18.37.20:494][370]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/HorrorEngine/AI/Running.Running as actor: SkeletalMeshActor /Game/HorrorEngine/Maps/HoshiNETest.HoshiNETest:PersistentLevel.SkeletalMeshActor_0
+[2023.05.17-18.37.20:495][370]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/HorrorEngine/AI/Running.Running as actor: SkeletalMeshActor /Game/HorrorEngine/Maps/HoshiNETest.HoshiNETest:PersistentLevel.SkeletalMeshActor_0
+[2023.05.17-18.37.20:573][373]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/HorrorEngine/AI/Running_Anim_mixamo_com.Running_Anim_mixamo_com
+[2023.05.17-18.37.20:573][373]LogActorFactory: Actor Factory attempting to spawn AnimSequence /Game/HorrorEngine/AI/Running_Anim_mixamo_com.Running_Anim_mixamo_com
+[2023.05.17-18.37.20:574][373]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/HorrorEngine/AI/Running.Running as actor: SkeletalMeshActor /Game/HorrorEngine/Maps/HoshiNETest.HoshiNETest:PersistentLevel.SkeletalMeshActor_1
+[2023.05.17-18.37.20:575][373]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/HorrorEngine/AI/Running.Running as actor: SkeletalMeshActor /Game/HorrorEngine/Maps/HoshiNETest.HoshiNETest:PersistentLevel.SkeletalMeshActor_1
+[2023.05.17-18.37.20:610][373]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-18.37.25:575][664]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.17-18.37.25:580][664]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.17-18.37.25:580][664]LogPlayLevel: [PlayLevel] Compiling test before play...
+[2023.05.17-18.37.25:693][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.05.17-18.37.25:694][664]LogPlayLevel: PlayLevel: Blueprint regeneration took 114 ms (1 blueprints)
+[2023.05.17-18.37.25:694][664]PIE: New page: PIE session: HoshiNETest (May 17, 2023, 4:37:25 AM)
+[2023.05.17-18.37.25:695][664]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest
+[2023.05.17-18.37.25:904][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.209536s)
+[2023.05.17-18.37.25:904][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/HoshiNETest.HoshiNETest to /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest (0.209620s)
+[2023.05.17-18.37.25:904][664]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.17-18.37.25:905][664]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-18.37.25:905][664]LogAIModule: Creating AISystem for world HoshiNETest
+[2023.05.17-18.37.25:905][664]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2023.05.17-18.37.25:945][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.05.17-18.37.25:947][664]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.05.17-18.37.25:947][664]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.17-18.37.25:947][664]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.17-18.37.25:947][664]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.17-18.37.25:947][664]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.17-18.37.25:947][664]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.17-18.37.25:947][664]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.17-18.37.25:947][664]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.17-18.37.25:947][664]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.17-18.37.25:948][664]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.17-18.37.25:948][664]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.17-18.37.25:948][664]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.17-18.37.25:949][664]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.17-18.37.26:011][664]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.17-18.37.26:012][664]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.17-18.37.26:012][664]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.17-18.37.26:012][664]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.17-18.37.26:012][664]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.05.17-18.37.26:012][664]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.05.17-18.37.26:013][664]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.05.17-18.37.26:013][664]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.05.17-18.37.26:013][664]LogInit: FAudioDevice initialized.
+[2023.05.17-18.37.26:013][664]LogAudio: Display: Audio Device (ID: 5) registered with world 'HoshiNETest'.
+[2023.05.17-18.37.26:026][664]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2023.05.17-18.37.26:096][664]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest up for play (max tick rate 0) at 2023.05.17-11.37.26
+[2023.05.17-18.37.26:098][664]LogWorld: Bringing up level for play took: 0.071508
+[2023.05.17-18.37.26:099][664]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.05.17-18.37.26:100][664]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.17-18.37.26:117][664]LogStreaming: Warning: Failed to read file '../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Saved/SaveGames/SaveSlotList.sav' error.
+[2023.05.17-18.37.26:138][664]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'AddChannels' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/Tv.Tv_C'!
+[2023.05.17-18.37.26:139][664]LogMediaAssets: Warning: TV.OpenSource called with null MediaSource
+[2023.05.17-18.37.26:139][664]PIE: Server logged in
+[2023.05.17-18.37.26:140][664]PIE: Play in editor total start time 0.561 seconds.
+[2023.05.17-18.37.30:990][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.37.30:990][999]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest
+[2023.05.17-18.37.30:991][999]LogWorld: UWorld::CleanupWorld for HoshiNETest, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-18.37.31:000][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.37.31:012][999]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.17-18.37.31:021][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.37.31:058][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.37.31:068][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.17-18.37.31:069][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.17-18.37.31:092][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.05.17-18.37.31:136][  0]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.05.17-18.37.31:194][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-18.37.46:559][ 41]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-18.38.20:083][828]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2023.05.17-18.38.20:115][828]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.17-18.38.54:541][204]BlueprintLog: New page: Compile test
+[2023.05.17-18.38.54:624][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.05.17-18.38.55:571][311]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.17-18.38.55:575][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.17-18.38.55:575][311]PIE: New page: PIE session: HoshiNETest (May 17, 2023, 4:38:55 AM)
+[2023.05.17-18.38.55:575][311]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest
+[2023.05.17-18.38.55:787][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.211449s)
+[2023.05.17-18.38.55:787][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/HoshiNETest.HoshiNETest to /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest (0.211547s)
+[2023.05.17-18.38.55:787][311]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.17-18.38.55:787][311]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-18.38.55:787][311]LogAIModule: Creating AISystem for world HoshiNETest
+[2023.05.17-18.38.55:788][311]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2023.05.17-18.38.55:822][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.17-18.38.55:824][311]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.05.17-18.38.55:824][311]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.17-18.38.55:824][311]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.17-18.38.55:824][311]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.17-18.38.55:824][311]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.17-18.38.55:824][311]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.17-18.38.55:824][311]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.17-18.38.55:824][311]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.17-18.38.55:824][311]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.17-18.38.55:825][311]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.17-18.38.55:825][311]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.17-18.38.55:825][311]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.17-18.38.55:827][311]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.17-18.38.55:891][311]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.17-18.38.55:891][311]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.17-18.38.55:891][311]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.17-18.38.55:891][311]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.17-18.38.55:891][311]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.05.17-18.38.55:891][311]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.05.17-18.38.55:893][311]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.05.17-18.38.55:893][311]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.05.17-18.38.55:893][311]LogInit: FAudioDevice initialized.
+[2023.05.17-18.38.55:893][311]LogAudio: Display: Audio Device (ID: 6) registered with world 'HoshiNETest'.
+[2023.05.17-18.38.55:914][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.38.55:914][311]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2023.05.17-18.38.55:988][311]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest up for play (max tick rate 0) at 2023.05.17-11.38.55
+[2023.05.17-18.38.55:990][311]LogWorld: Bringing up level for play took: 0.075951
+[2023.05.17-18.38.55:992][311]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.05.17-18.38.55:992][311]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.17-18.38.56:009][311]LogStreaming: Warning: Failed to read file '../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Saved/SaveGames/SaveSlotList.sav' error.
+[2023.05.17-18.38.56:020][311]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'AddChannels' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/Tv.Tv_C'!
+[2023.05.17-18.38.56:020][311]LogMediaAssets: Warning: TV.OpenSource called with null MediaSource
+[2023.05.17-18.38.56:021][311]PIE: Server logged in
+[2023.05.17-18.38.56:022][311]PIE: Play in editor total start time 0.447 seconds.
+[2023.05.17-18.38.56:186][311]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.05.17-18.39.00:370][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.39.00:370][566]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest
+[2023.05.17-18.39.00:370][566]LogSlate: Window 'HorrorEngine Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.17-18.39.00:382][566]LogWorld: UWorld::CleanupWorld for HoshiNETest, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-18.39.00:392][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.39.00:404][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.17-18.39.00:412][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.39.00:457][566]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.17-18.39.00:459][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.05.17-18.39.00:460][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.05.17-18.39.00:485][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.05.17-18.39.00:528][567]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.05.17-18.39.02:280][771]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-18.39.07:005][ 10]Cmd: DELETE
+[2023.05.17-18.39.07:005][ 10]Cmd: ACTOR DELETE
+[2023.05.17-18.39.07:046][ 10]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.05.17-18.39.07:082][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.05.17-18.39.07:086][ 10]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2023.05.17-18.39.09:411][139]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.17-18.39.09:415][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.17-18.39.09:416][139]PIE: New page: PIE session: HoshiNETest (May 17, 2023, 4:39:09 AM)
+[2023.05.17-18.39.09:416][139]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest
+[2023.05.17-18.39.09:629][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.213430s)
+[2023.05.17-18.39.09:629][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/HoshiNETest.HoshiNETest to /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest (0.213525s)
+[2023.05.17-18.39.09:629][139]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.17-18.39.09:629][139]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-18.39.09:629][139]LogAIModule: Creating AISystem for world HoshiNETest
+[2023.05.17-18.39.09:630][139]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2023.05.17-18.39.09:665][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.05.17-18.39.09:666][139]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.05.17-18.39.09:666][139]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.17-18.39.09:666][139]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.17-18.39.09:666][139]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.17-18.39.09:666][139]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.17-18.39.09:666][139]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.17-18.39.09:666][139]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.17-18.39.09:666][139]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.17-18.39.09:666][139]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.17-18.39.09:666][139]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.17-18.39.09:666][139]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.17-18.39.09:666][139]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.17-18.39.09:668][139]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.17-18.39.09:732][139]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.17-18.39.09:732][139]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.17-18.39.09:732][139]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.17-18.39.09:732][139]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.17-18.39.09:733][139]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.05.17-18.39.09:733][139]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.05.17-18.39.09:734][139]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.05.17-18.39.09:734][139]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.05.17-18.39.09:734][139]LogInit: FAudioDevice initialized.
+[2023.05.17-18.39.09:734][139]LogAudio: Display: Audio Device (ID: 7) registered with world 'HoshiNETest'.
+[2023.05.17-18.39.09:742][139]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2023.05.17-18.39.09:813][139]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest up for play (max tick rate 0) at 2023.05.17-11.39.09
+[2023.05.17-18.39.09:816][139]LogWorld: Bringing up level for play took: 0.073786
+[2023.05.17-18.39.09:817][139]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.05.17-18.39.09:818][139]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.17-18.39.09:834][139]LogStreaming: Warning: Failed to read file '../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Saved/SaveGames/SaveSlotList.sav' error.
+[2023.05.17-18.39.09:846][139]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'AddChannels' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/Tv.Tv_C'!
+[2023.05.17-18.39.09:846][139]LogMediaAssets: Warning: TV.OpenSource called with null MediaSource
+[2023.05.17-18.39.09:847][139]PIE: Server logged in
+[2023.05.17-18.39.09:847][139]PIE: Play in editor total start time 0.432 seconds.
+[2023.05.17-18.39.16:649][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.39.16:649][569]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest
+[2023.05.17-18.39.16:651][569]LogWorld: UWorld::CleanupWorld for HoshiNETest, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-18.39.16:659][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.39.16:672][569]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.17-18.39.16:681][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.39.16:722][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.39.16:728][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.05.17-18.39.16:729][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.05.17-18.39.16:753][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.05.17-18.39.16:784][570]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.05.17-18.39.42:198][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.05.17-18.39.42:215][695]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.009796 seconds
+[2023.05.17-18.39.42:749][695]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HorrorEngine/Maps/HoshiNETest_Auto1
+[2023.05.17-18.39.42:749][695]LogSavePackage: Moving '../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Saved/HoshiNETest_Auto10F03F18E44497A58A7CEFF916D1D69E5.tmp' to '../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Saved/Autosaves/Game/HorrorEngine/Maps/HoshiNETest_Auto1.umap'
+[2023.05.17-18.39.42:764][695]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HorrorEngine/Maps/HoshiNETest' took 0.598
+[2023.05.17-18.39.42:764][695]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.598
+[2023.05.17-18.39.42:764][695]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HorrorEngine/AI/Running] ([1] browsable assets)...
+[2023.05.17-18.39.42:787][695]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/HorrorEngine/AI/Running.Running]
+[2023.05.17-18.39.42:787][695]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorEngine/AI/Running]
+[2023.05.17-18.39.42:858][695]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HorrorEngine/AI/Running_Auto1
+[2023.05.17-18.39.42:858][695]LogSavePackage: Moving '../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Saved/Running_Auto10348088A44E17CB9F98965A3628AA71A.tmp' to '../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Saved/Autosaves/Game/HorrorEngine/AI/Running_Auto1.uasset'
+[2023.05.17-18.39.42:858][695]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HorrorEngine/AI/Running_Skeleton] ([1] browsable assets)...
+[2023.05.17-18.39.42:871][695]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/HorrorEngine/AI/Running_Skeleton.Running_Skeleton]
+[2023.05.17-18.39.42:871][695]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorEngine/AI/Running_Skeleton]
+[2023.05.17-18.39.42:873][695]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HorrorEngine/AI/Running_Skeleton_Auto1
+[2023.05.17-18.39.42:873][695]LogSavePackage: Moving '../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Saved/Running_Skeleton_Auto1BA334F49486B714C452E99A8507E15E5.tmp' to '../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Saved/Autosaves/Game/HorrorEngine/AI/Running_Skeleton_Auto1.uasset'
+[2023.05.17-18.39.42:873][695]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HorrorEngine/AI/Running_PhysicsAsset] ([1] browsable assets)...
+[2023.05.17-18.39.42:883][695]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/HorrorEngine/AI/Running_PhysicsAsset.Running_PhysicsAsset]
+[2023.05.17-18.39.42:883][695]OBJ SavePackage: Finished generating thumbnails for package [/Game/HorrorEngine/AI/Running_PhysicsAsset]
+[2023.05.17-18.39.42:886][695]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HorrorEngine/AI/Running_PhysicsAsset_Auto1
+[2023.05.17-18.39.42:886][695]LogSavePackage: Moving '../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Saved/Running_PhysicsAsset_Auto114F460EB452CF5F4E526BDB1F0C4E2A0.tmp' to '../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Saved/Autosaves/Game/HorrorEngine/AI/Running_PhysicsAsset_Auto1.uasset'
+[2023.05.17-18.39.42:887][695]LogFileHelpers: Auto-saving content packages took 0.123
+[2023.05.17-18.40.31:463][515]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.17-18.40.31:467][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.17-18.40.31:467][515]PIE: New page: PIE session: HoshiNETest (May 17, 2023, 4:40:31 AM)
+[2023.05.17-18.40.31:467][515]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest
+[2023.05.17-18.40.31:681][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.213854s)
+[2023.05.17-18.40.31:681][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/HoshiNETest.HoshiNETest to /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest (0.213973s)
+[2023.05.17-18.40.31:681][515]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.17-18.40.31:681][515]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-18.40.31:681][515]LogAIModule: Creating AISystem for world HoshiNETest
+[2023.05.17-18.40.31:682][515]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2023.05.17-18.40.31:717][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.17-18.40.31:718][515]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.05.17-18.40.31:718][515]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.17-18.40.31:718][515]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.17-18.40.31:718][515]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.17-18.40.31:718][515]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.17-18.40.31:718][515]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.17-18.40.31:718][515]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.17-18.40.31:718][515]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.17-18.40.31:718][515]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.17-18.40.31:719][515]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.17-18.40.31:719][515]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.17-18.40.31:719][515]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.17-18.40.31:720][515]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.17-18.40.31:784][515]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.17-18.40.31:784][515]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.17-18.40.31:784][515]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.17-18.40.31:784][515]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.17-18.40.31:784][515]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.05.17-18.40.31:784][515]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.05.17-18.40.31:786][515]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.05.17-18.40.31:786][515]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.05.17-18.40.31:786][515]LogInit: FAudioDevice initialized.
+[2023.05.17-18.40.31:786][515]LogAudio: Display: Audio Device (ID: 8) registered with world 'HoshiNETest'.
+[2023.05.17-18.40.31:808][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.40.31:808][515]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2023.05.17-18.40.31:880][515]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest up for play (max tick rate 0) at 2023.05.17-11.40.31
+[2023.05.17-18.40.31:882][515]LogWorld: Bringing up level for play took: 0.074994
+[2023.05.17-18.40.31:884][515]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.05.17-18.40.31:884][515]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.17-18.40.31:901][515]LogStreaming: Warning: Failed to read file '../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Saved/SaveGames/SaveSlotList.sav' error.
+[2023.05.17-18.40.31:913][515]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'AddChannels' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/Tv.Tv_C'!
+[2023.05.17-18.40.31:913][515]LogMediaAssets: Warning: TV.OpenSource called with null MediaSource
+[2023.05.17-18.40.31:914][515]PIE: Server logged in
+[2023.05.17-18.40.31:914][515]PIE: Play in editor total start time 0.448 seconds.
+[2023.05.17-18.40.31:947][515]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.05.17-18.40.44:540][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.40.44:540][936]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest
+[2023.05.17-18.40.44:540][936]LogSlate: Window 'HorrorEngine Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.17-18.40.44:547][936]LogWorld: UWorld::CleanupWorld for HoshiNETest, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-18.40.44:559][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.40.44:574][936]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.17-18.40.44:583][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.40.44:630][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.05.17-18.40.44:631][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.05.17-18.40.44:655][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.05.17-18.40.44:855][937]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.05.17-18.41.24:250][793]LogNavigationDataBuild: Navigation data generation finished in /Game/HorrorEngine/Maps/HoshiNETest.
+[2023.05.17-18.41.33:010][248]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.17-18.41.33:015][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.17-18.41.33:015][248]PIE: New page: PIE session: HoshiNETest (May 17, 2023, 4:41:33 AM)
+[2023.05.17-18.41.33:015][248]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest
+[2023.05.17-18.41.33:231][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.216274s)
+[2023.05.17-18.41.33:231][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/HoshiNETest.HoshiNETest to /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest (0.216347s)
+[2023.05.17-18.41.33:231][248]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.17-18.41.33:231][248]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-18.41.33:231][248]LogAIModule: Creating AISystem for world HoshiNETest
+[2023.05.17-18.41.33:232][248]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2023.05.17-18.41.33:266][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.05.17-18.41.33:268][248]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.05.17-18.41.33:269][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.17-18.41.33:269][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.17-18.41.33:269][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.17-18.41.33:269][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.17-18.41.33:269][248]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.17-18.41.33:269][248]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.17-18.41.33:269][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.17-18.41.33:269][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.17-18.41.33:269][248]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.17-18.41.33:269][248]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.17-18.41.33:269][248]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.17-18.41.33:271][248]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.17-18.41.33:334][248]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.17-18.41.33:334][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.17-18.41.33:334][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.17-18.41.33:334][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.17-18.41.33:334][248]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.05.17-18.41.33:334][248]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.05.17-18.41.33:336][248]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.05.17-18.41.33:336][248]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.05.17-18.41.33:336][248]LogInit: FAudioDevice initialized.
+[2023.05.17-18.41.33:336][248]LogAudio: Display: Audio Device (ID: 9) registered with world 'HoshiNETest'.
+[2023.05.17-18.41.33:347][248]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2023.05.17-18.41.33:417][248]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest up for play (max tick rate 0) at 2023.05.17-11.41.33
+[2023.05.17-18.41.33:419][248]LogWorld: Bringing up level for play took: 0.071437
+[2023.05.17-18.41.33:420][248]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.05.17-18.41.33:421][248]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.17-18.41.33:436][248]LogStreaming: Warning: Failed to read file '../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Saved/SaveGames/SaveSlotList.sav' error.
+[2023.05.17-18.41.33:447][248]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'AddChannels' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/Tv.Tv_C'!
+[2023.05.17-18.41.33:447][248]LogMediaAssets: Warning: TV.OpenSource called with null MediaSource
+[2023.05.17-18.41.33:448][248]PIE: Server logged in
+[2023.05.17-18.41.33:448][248]PIE: Play in editor total start time 0.434 seconds.
+[2023.05.17-18.44.05:419][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.44.05:419][472]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest
+[2023.05.17-18.44.05:420][472]LogWorld: UWorld::CleanupWorld for HoshiNETest, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-18.44.05:429][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.44.05:443][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.17-18.44.05:454][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.44.05:495][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.44.05:501][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.17-18.44.05:502][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.05.17-18.44.05:526][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.05.17-18.44.05:561][473]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.05.17-18.44.18:758][547]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.17-18.44.30:635][855]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.17-18.44.30:639][855]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.17-18.44.30:640][855]LogPlayLevel: [PlayLevel] Compiling test before play...
+[2023.05.17-18.44.30:727][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.05.17-18.44.30:730][855]LogPlayLevel: PlayLevel: Blueprint regeneration took 90 ms (1 blueprints)
+[2023.05.17-18.44.30:730][855]PIE: New page: PIE session: HoshiNETest (May 17, 2023, 4:44:30 AM)
+[2023.05.17-18.44.30:769][855]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest
+[2023.05.17-18.44.30:977][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.208464s)
+[2023.05.17-18.44.30:978][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/HoshiNETest.HoshiNETest to /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest (0.208640s)
+[2023.05.17-18.44.30:978][855]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.17-18.44.30:978][855]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-18.44.30:978][855]LogAIModule: Creating AISystem for world HoshiNETest
+[2023.05.17-18.44.30:979][855]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2023.05.17-18.44.31:013][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.05.17-18.44.31:014][855]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.05.17-18.44.31:014][855]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.17-18.44.31:014][855]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.17-18.44.31:014][855]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.17-18.44.31:014][855]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.17-18.44.31:014][855]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.17-18.44.31:014][855]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.17-18.44.31:014][855]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.17-18.44.31:014][855]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.17-18.44.31:014][855]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.17-18.44.31:014][855]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.17-18.44.31:014][855]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.17-18.44.31:016][855]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.17-18.44.31:080][855]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.17-18.44.31:080][855]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.17-18.44.31:080][855]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.17-18.44.31:080][855]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.17-18.44.31:081][855]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.05.17-18.44.31:081][855]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.05.17-18.44.31:082][855]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.05.17-18.44.31:082][855]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.05.17-18.44.31:082][855]LogInit: FAudioDevice initialized.
+[2023.05.17-18.44.31:082][855]LogAudio: Display: Audio Device (ID: 10) registered with world 'HoshiNETest'.
+[2023.05.17-18.44.31:092][855]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2023.05.17-18.44.31:163][855]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest.HoshiNETest up for play (max tick rate 0) at 2023.05.17-11.44.31
+[2023.05.17-18.44.31:165][855]LogWorld: Bringing up level for play took: 0.072837
+[2023.05.17-18.44.31:166][855]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.05.17-18.44.31:167][855]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.17-18.44.31:182][855]LogStreaming: Warning: Failed to read file '../../../../../../Users/k10lab-p4/Downloads/HoshiNoEscape/Saved/SaveGames/SaveSlotList.sav' error.
+[2023.05.17-18.44.31:193][855]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'AddChannels' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/Tv.Tv_C'!
+[2023.05.17-18.44.31:193][855]LogMediaAssets: Warning: TV.OpenSource called with null MediaSource
+[2023.05.17-18.44.31:193][855]PIE: Server logged in
+[2023.05.17-18.44.31:194][855]PIE: Play in editor total start time 0.555 seconds.
+[2023.05.17-18.44.41:919][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.44.41:919][601]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_HoshiNETest
+[2023.05.17-18.44.41:920][601]LogWorld: UWorld::CleanupWorld for HoshiNETest, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-18.44.41:929][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.44.41:941][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.17-18.44.41:949][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.44.41:982][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-18.44.41:982][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.05.17-18.44.41:984][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.05.17-18.44.42:018][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.05.17-18.44.42:052][602]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.05.17-18.44.47:822][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.05.17-18.44.57:035][860]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.17-18.44.59:907][860]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-18.44.59:907][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-18.44.59:953][860]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/HorrorEngine/AI/test.test
+	Asset Type: Blueprint
+	Asset Name: /Game/HorrorEngine/AI/Beta_HighLimbsGeoSG3.Beta_HighLimbsGeoSG3
+	Asset Type: Material
+	Asset Name: /Game/HorrorEngine/AI/Beta_Joints_MAT1.Beta_Joints_MAT1
+	Asset Type: Material
+	Asset Name: /Game/HorrorEngine/AI/Running.Running
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/HorrorEngine/AI/Running_Anim_mixamo_com.Running_Anim_mixamo_com
+	Asset Type: AnimSequence
+	Asset Name: /Game/HorrorEngine/AI/Running_Anim_Take_001.Running_Anim_Take_001
+	Asset Type: AnimSequence
+	Asset Name: /Game/HorrorEngine/AI/Running_PhysicsAsset.Running_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/HorrorEngine/AI/Running_Skeleton.Running_Skeleton
+	Asset Type: Skeleton
+[2023.05.17-18.45.00:525][860]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Running) ...
+[2023.05.17-18.45.00:548][860]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Running) ...
+[2023.05.17-18.45.00:575][860]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Running) ...
+[2023.05.17-18.45.00:601][860]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Running) ...
+[2023.05.17-18.45.00:628][860]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Running) ...
+[2023.05.17-18.45.00:639][860]LogAnimation: Warning: Invalid animation
+[2023.05.17-18.45.00:648][860]LogAnimation: Warning: Invalid animation
+[2023.05.17-18.45.00:650][860]LogAnimation: Warning: Invalid animation
+[2023.05.17-18.45.00:750][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.05.17-18.45.03:946][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.05.17-18.45.03:978][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.05.17-18.45.04:009][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.05.17-18.45.04:036][861]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/HorrorEngine/AI/Running.Running has no skeleton. This needs to fixed before an animation can be set
+[2023.05.17-18.45.04:373][862]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/HorrorEngine/AI/Running.Running has no skeleton. This needs to fixed before an animation can be set
+[2023.05.17-18.50.51:530][122]LogSlate: Window 'Delete Assets' being destroyed
